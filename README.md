@@ -21,9 +21,9 @@
 - Dataset
     
     ```
-    python -m dataset ./puzzle_images/ 2
-    & python -m dataset ./puzzle_images/ 3
-    & python -m dataset ./puzzle_images/ 4
+    python -m dataset ./puzzle_images/ 2 &&\
+    python -m dataset ./puzzle_images/ 3 &&\
+    python -m dataset ./puzzle_images/ 4 &&\
     ```
     
 
